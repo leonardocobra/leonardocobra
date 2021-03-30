@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leonardocobra
-- 👀 I’m interested in web app development (Django)
+- 👀 I’m interested in web app developmentDj, specially Django.
 - 🌱 I’m currently learning Python, SQL and web development frameworks.
 - 💞️ I’m looking to collaborate on Computerized Maintenance Management Systems, social impact/religious web apps and data science projects.
 - 📫 Get in touch on my personal email: lc.branco00@gmail.com
