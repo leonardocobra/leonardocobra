@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leonardocobra
 - 👀 I’m interested in agentic software development.
-- 🌱 I’m currently learning how to use the most of Claude Code. But I am also pursuing some personal projects on social media managment.
+- 🌱 I’m currently learning how to use the most of Claude Code. But I am also pursuing some personal projects on social media management.
 - 💞️ I’m looking to collaborate on social impact, religious web apps and data science projects.
 - 📫 Get in touch on my personal email: leonardo.branco00@icloud.com
 
