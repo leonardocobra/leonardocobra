@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on social impact, religious web apps and data science projects.
 - 📫 Get in touch on my personal email: leonardo.branco00@icloud.com
 
-professionally I have been around mainly on tech industry for the last 5 years, learning mainly about tech mobility and fintech markets.
+Professionally I have been around mainly on tech industry for over 5 years, learning mainly about tech mobility and fintech markets.
 
 I'm a mechanical engineer who had experience in R&D, management consulting and fast period on data science fields untill breaking into Tech per say.
 
